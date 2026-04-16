@@ -477,5 +477,5 @@ chrome.runtime.onMessage.addListener((message) => {
 // ============================================================
 // 初期化
 // ============================================================
-console.log(LOG_PREFIX, "Content Script が起動しました。監視を開始します...");
+logDebug("Content Script が起動しました。監視を開始します...");
 startObserver();
