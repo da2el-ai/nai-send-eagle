@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "NAI Send Eagle",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "NovelAI で生成した画像を自動的に Eagle へ送信します。",
   "icons": {
       "16": "icon.png",
